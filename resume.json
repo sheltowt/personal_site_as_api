@@ -1,0 +1,91 @@
+{
+	"Summary": {
+		"overview": "software engineer with strengths in backend and data engineering",
+		"programming_languages": ["Python", "Golang", "JavaScript", "SQL", "Ruby", "Bash"],
+		"GitHub": "https://github.com/sheltowt",
+		"LinkedIn": "https://www.linkedin.com/in/williamshelton",
+		"email_address": "sheltowt@gmail.com"
+	},
+	"Experience": {
+		"Empower Security Academy": {
+			"position": "Technical Co-Founder",
+			"location": "Washington, DC",
+			"dates": "May 2016-October 2016",
+			"description": {
+				"1": "Co-Founded a cybersecurity-based programming bootcamp",
+				"2": "Taught cybersecurity fundamentals, Wireshark, OWASP Top 10, ZAP, AWS, Python, RESTful APIs, MySQL, Bash",
+				"3": "Developed curriculum; prepared lectures and workshops"
+			}
+		},
+		"F5 Networks Inc.": {
+			"position": "Senior Software Engineer",
+			"location": "San Jose, CA",
+			"dates": "April 2015-May 2016",
+			"description": {
+				"1": "Joined the Silverline Web Application Firewall team prior to product launch",
+				"2": "Built out the WAF as a Service product as the core services developer from October 2015 – April 2016",
+				"3": "Developed internal tools to QA distributed systems, developed extensive test coverage for service",
+				"4": "Utilized Golang, Couchbase, Elasticsearch, BigIp ASM"
+			}
+		},
+		"Edmodo": {
+			"position": "Research Engineer, Data Products",
+			"location": "San Mateo, CA",
+			"dates": "August 2013-January 2015",
+			"description": {
+				"1": "Built production APIs using Golang, Rails and Thrift for Edmodo’s Admin Platform; supported 4 frontend engineers",
+				"2": "Analyzed usage patterns of Edmodo’s 45M+ users using Python, Hive, Hadoop, Weka and R",
+				"3": "Built functional product prototypes using Node.js, MongoDB, Angular, Bootstrap and Python",
+				"4": "Modified and extended product supporting data pipelines using Hive, SQL and Python",
+				"5": "Optimized performance of APIs that used SQL tables with 1B+ rows by creating indexes, reducing joins"
+			}
+		},
+		"Hack Reactor": {
+			"position": "Student",
+			"location": "San Francisco, CA",
+			"dates": "May 2013-August 2013",
+			"description": {
+				"1": "Served as lead data engineer for http://www.redditinsight.com; data visualizations of Reddit that received 100K+ views",
+				"2": "Wrote computer vision project for https://www.pixlee.com; used OpenCV to identify Coke cans in photos"
+			}
+		},
+		"Global Knowledge Management Center": {
+			"position": "Research Assistant",
+			"location": "Salt Lake City, UT",
+			"dates": "August 2010-May 2013",
+			"description": {
+				"1": "Prepared data for https://www.druginformer.com and StockTwits text analysis and machine learning research projects",
+				"2": "Competed in Kaggle competitions using AWS, Python, R"
+			}
+		},
+		"University Impact and Venture Fund": {
+			"location": "Salt Lake City, UT",
+			"dates": "May 2011-April 2013",
+			"description": {
+				"1": "Developed research for my MSIS thesis, Cloud Credit, a prototype of an emerging market SME lending tool",
+				"2": "Prepared investment analysis for global equity funds totaling $12M+ in potential investment",
+				"3": "Led diligence teams for the $18.2M University Venture Fund, responsible for $750K in executed investment; participated in investment committee evaluation of PE/VC investments totaling $2.5M",
+				"4": "Created financial model for $700K debt investment into European-based micro-finance software company"
+			}
+		}
+	},
+	"Education": {
+		"Masters of Information Science": {
+			"school": "University of Utah",
+			"graduation_date": "May 2013",
+			"emphasis": "Data"
+		},
+		"Masters of Business Administration": {
+			"school": "University of Utah",
+			"graduation_date": "May 2013",
+			"emphasis": "Finance"
+		},
+		"Bachelors of Science": {
+			"school": "University of Utah",
+			"graduation_date": "May 2009",
+			"major": "Psychology",
+			"minor": "Chemistry"
+		}
+	},
+	"Personal Interests": ["skiing", "biking", "backpacking", "tennis", "saxophone"]
+}
