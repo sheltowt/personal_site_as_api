@@ -73,13 +73,15 @@
 				},
 				"6": {
 					"University Impact and Venture Fund": {
+						"position": "Senior Associate",
 						"location": "Salt Lake City, UT",
 						"dates": "May 2011-April 2013",
 						"description": {
-							"1": "Developed research for my MSIS thesis, Cloud Credit, a prototype of an emerging market SME lending tool",
-							"2": "Prepared investment analysis for global equity funds totaling $12M+ in potential investment",
-							"3": "Led diligence teams for the $18.2M University Venture Fund, responsible for $750K in executed investment; participated in investment committee evaluation of PE/VC investments totaling $2.5M",
-							"4": "Created financial model for $700K debt investment into European-based micro-finance software company"
+							"1": "Student run Venture Capital and Consulting Firm",
+							"2": "Developed research for my MSIS thesis, Cloud Credit, a prototype of an emerging market SME lending tool",
+							"3": "Prepared investment analysis for global equity funds totaling $12M+ in potential investment",
+							"4": "Led diligence teams for the $18.2M University Venture Fund, responsible for $750K in executed investment; participated in investment committee evaluation of PE/VC investments totaling $2.5M",
+							"5": "Created financial model for $700K debt investment into European-based micro-finance software company"
 						}
 					}					
 				}
