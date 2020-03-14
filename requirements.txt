@@ -23,7 +23,7 @@ django-filter==0.13.0
 djangorestframework==3.9.1
 dnet==1.12
 docutils==0.12
-ecdsa==0.13
+ecdsa==0.13.3
 elasticsearch==2.3.0
 enum34==1.1.6
 Fabric==1.12.0
