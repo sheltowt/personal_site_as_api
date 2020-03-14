@@ -27,7 +27,7 @@ ecdsa==0.13
 elasticsearch==2.3.0
 enum34==1.1.6
 Fabric==1.12.0
-Flask==0.11.1
+Flask==1.0
 Flask-MySQL==1.3
 futures==3.0.5
 Garmr==0.3
