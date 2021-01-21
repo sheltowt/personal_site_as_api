@@ -81,7 +81,7 @@ python-dateutil==2.6.1
 python-nmap==0.6.0
 python-owasp-zap-v2.4==0.0.8
 pytz==2016.3
-PyYAML==5.1
+PyYAML==5.4
 queuelib==1.4.2
 requests==2.20.0
 requests-oauthlib==0.6.2
