@@ -85,7 +85,7 @@ PyYAML==5.4
 queuelib==1.4.2
 requests==2.20.0
 requests-oauthlib==0.6.2
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.0.1
 scapy==2.4.1
 scikit-learn==0.17.1
