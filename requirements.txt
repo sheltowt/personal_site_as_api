@@ -14,7 +14,7 @@ chardet==3.0.4
 click==6.2
 colorama==0.3.3
 colour-runner==0.0.4
-cryptography==1.4
+cryptography==1.5.2
 cssselect==0.9.2
 cycler==0.10.0
 decorator==4.0.9
@@ -39,7 +39,7 @@ IPy==0.83
 ipython==4.2.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 lxml==3.6.0
 Markdown==2.6.6
@@ -104,7 +104,7 @@ Theano==0.8.2
 threatconnect==2.4.20
 traitlets==4.2.1
 tweepy==3.5.0
-Twisted==19.7.0
+Twisted==20.3.0
 typing==3.5.1.0
 ujson==1.35
 unicodecsv==0.14.1
