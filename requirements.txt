@@ -104,7 +104,7 @@ Theano==0.8.2
 threatconnect==2.4.20
 traitlets==4.2.1
 tweepy==3.5.0
-Twisted==19.7.0
+Twisted==22.2.0
 typing==3.5.1.0
 ujson==1.35
 unicodecsv==0.14.1
