@@ -39,7 +39,7 @@ IPy==0.83
 ipython==4.2.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 lxml==3.6.0
 Markdown==2.6.6
@@ -55,7 +55,7 @@ numpy==1.11.0
 oauthlib==1.1.2
 pandas==0.18.0
 pandasql==0.7.3
-paramiko==2.0.9
+paramiko==2.10.1
 parsel==1.0.2
 pathlib2==2.1.0
 pcapy==0.10.10
