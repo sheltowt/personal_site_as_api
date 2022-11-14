@@ -96,7 +96,7 @@ simplegeneric==0.8.1
 simplejson==3.8.2
 six==1.10.0
 sklearn==0.0
-SQLAlchemy==1.0.14
+SQLAlchemy==1.2.18
 sqlmap==1.0.8
 sympy==1.0
 tabulate==0.8.2
@@ -117,3 +117,4 @@ Werkzeug==0.15.3
 wikitables==0.2
 xmltodict==0.10.2
 zope.interface==4.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
