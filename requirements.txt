@@ -41,7 +41,7 @@ ipython-genutils==0.1.0
 itsdangerous==0.24
 Jinja2==2.8
 jmespath==0.9.0
-lxml==3.6.0
+lxml==4.9.1
 Markdown==2.6.6
 MarkupSafe==0.23
 matplotlib==1.5.1
@@ -96,7 +96,7 @@ simplegeneric==0.8.1
 simplejson==3.8.2
 six==1.10.0
 sklearn==0.0
-SQLAlchemy==1.0.14
+SQLAlchemy==1.2.18
 sqlmap==1.0.8
 sympy==1.0
 tabulate==0.8.2
