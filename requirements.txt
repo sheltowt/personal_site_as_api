@@ -1,7 +1,7 @@
 appnope==0.1.0
 attrs==16.0.0
 automated-workflows==1.0
-awscli==1.10.44
+awscli==1.11.83
 backports.shutil-get-terminal-size==1.0.0
 BeautifulSoup==3.2.1
 blessings==1.6
@@ -39,7 +39,7 @@ IPy==0.83
 ipython==4.2.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 lxml==3.6.0
 Markdown==2.6.6
@@ -85,7 +85,7 @@ PyYAML==5.4
 queuelib==1.4.2
 requests==2.20.0
 requests-oauthlib==0.6.2
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.0.1
 scapy==2.4.1
 scikit-learn==0.17.1
