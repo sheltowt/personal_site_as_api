@@ -98,7 +98,7 @@ six==1.10.0
 sklearn==0.0
 SQLAlchemy==1.0.14
 sqlmap==1.0.8
-sympy==1.0
+sympy==1.12
 tabulate==0.8.2
 Theano==0.8.2
 threatconnect==2.4.20
