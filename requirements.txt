@@ -90,7 +90,7 @@ s3transfer==0.0.1
 scapy==2.4.1
 scikit-learn==0.17.1
 scipy==0.17.0
-Scrapy==1.1.0
+Scrapy==1.8.4
 service-identity==16.0.0
 simplegeneric==0.8.1
 simplejson==3.8.2
