@@ -33,7 +33,7 @@ futures==3.0.5
 Garmr==0.3
 glob2==0.4.1
 gnureadline==6.3.3
-idna==2.6
+idna==3.7
 ipaddress==1.0.16
 IPy==0.83
 ipython==4.2.0
