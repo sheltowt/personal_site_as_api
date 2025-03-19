@@ -41,7 +41,7 @@ ipython-genutils==0.1.0
 itsdangerous==0.24
 Jinja2==2.8
 jmespath==0.9.0
-lxml==3.6.0
+lxml==4.9.1
 Markdown==2.6.6
 MarkupSafe==0.23
 matplotlib==1.5.1
